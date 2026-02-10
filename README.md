@@ -20,3 +20,7 @@ Você pode indicar ênfase com negrito, itálico, strikethrough, subscrito ou te
 7. Superescrição	<sup> </sup>	nenhum atalho 	This is a <sup>superscript</sup> text
 
 8. Sublinhar	<ins> </ins> 	nenhum atalho This is an <ins>underlined</ins> text
+## Figuras
+Você pode exibir uma imagem adicionando ! e envolvendo o texto alternativo em [ ]. O texto alternativo é um texto curto que equivale às informações da imagem. Em seguida, coloque o link da imagem entre parênteses ().
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/../../../../github/docs/blob/main/assets/images/electrocat.png)
