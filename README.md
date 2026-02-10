@@ -24,3 +24,23 @@ Você pode indicar ênfase com negrito, itálico, strikethrough, subscrito ou te
 Você pode exibir uma imagem adicionando ! e envolvendo o texto alternativo em [ ]. O texto alternativo é um texto curto que equivale às informações da imagem. Em seguida, coloque o link da imagem entre parênteses ().
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/../../../../github/docs/blob/main/assets/images/electrocat.png)
+
+## Trecho de código
+O Trecho de código no arquivo .md é feito abrindo o código com três crases e fechando-o com três crases (```). Sempre uma linha única para abrir e uma linha única para fechar
+
+```
+Código aqui
+```
+
+E o código pode ser formatado dependendo da linguagem, desde linguagens de programação diversas como Java, Python e R, até bash ou mermaid, passando por CSS e HTML. Como? Apenas escrever na primeira linha, ao lado das três crases a linguagem usada
+
+![imagem-exemplo](~/Imagens/IMAGEM.png)
+
+```python
+#Exemplo de python
+ola = 'Olá mundo'
+print(ola)
+
+```
+
+Ele é útil para facilitar a leitura de código, para que fique formatado, com cores e pautado de acordo com cada linguagem, além de facilitar pois os blocos de código possuem a opção de colar o bloco inteiro quando formatados adequadamente
